@@ -10,6 +10,16 @@ Benediction Lab is the research home for agentic operating systems, memory, synt
 
 ---
 
+
+## Marketing & public surfaces
+
+| Surface | URL |
+| --- | --- |
+| **Lab website** | [benedictionlab.com](https://benedictionlab.com) |
+| **GitHub org** | [github.com/Benediction-Lab](https://github.com/Benediction-Lab) |
+| **Orbit field application** | [myorbit.dev](https://myorbit.dev) |
+| **Mustard Seed Group** | [mustardseed.group](https://mustardseed.group) |
+
 ## Ethos
 
 > “What is this, and why have I never discovered it before?”
